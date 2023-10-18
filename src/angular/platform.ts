@@ -1,4 +1,4 @@
-import { BaseMock } from './../base.mock';
+import { BaseMock } from '../base.mock';
 import { deprecated } from 'deprecated-decorator';
 
 const METHODS = [
